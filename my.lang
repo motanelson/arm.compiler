@@ -1,8 +1,0 @@
-c=func()
-c=func(a)
-c=func(a,b)
-c=func(a,b,c)
-sub()
-sub(a)
-sub(a,b)
-sub(a,b,c)
